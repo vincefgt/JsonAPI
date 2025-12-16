@@ -15,8 +15,7 @@
     {"id":"naissance", "labal":"Naissance ou adoption (3jours)", "checked":false},
     {"id": "mariage", "label": "Mariage (4jours)", "checked": true},
     {"id": "mariage_enfant", "label": "Mariage d'un enfant (1jour)", "checked": false},
-    {"id": "deces", "label": "Décès du conjoint ou du partenaire lié par un pacte civil de solidarité, d'un parent ou beau-parent, d'un frére ou soeur (1jour)", "checked": false}],
-  "generatedBy":"javascript"}
+    {"id": "deces", "label": "Décès du conjoint ou du partenaire lié par un pacte civil de solidarité, d'un parent ou beau-parent, d'un frére ou soeur (1jour)", "checked": false},
     {"id": "visite_medicale", "label": "Visite médicale obligatoire de grossesse", "checked": true},
     {"id": "mariage", "label": "Stagiaire élu membre du CA d'une caisse de sécurité sociale", "checked": true}],
 "generatedBy":"javascript"}
@@ -37,6 +36,7 @@
     {"id": "rdv_pole_emploi", "label": "Rendez-vous Pôle Emploi", "checked": false}],
   "generatedBy":"javascript"}
 {"title":"Code 99 : Absence non autorisé non rémunrée", "generatedBy":"javascript"}
+
 
 
 
