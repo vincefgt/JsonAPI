@@ -19,6 +19,7 @@
   "generatedBy":"javascript"}
     {"id": "visite_medicale", "label": "Visite médicale obligatoire de grossesse", "checked": true},
     {"id": "mariage", "label": "Stagiaire élu membre du CA d'une caisse de sécurité sociale", "checked": true}],
+"generatedBy":"javascript"}
 {"title":"Code 20 - 21 - 30 - 31 - 40 - 41 : Accident",
   "options":[
     {"id":"acc_s", "labal":"Accident travail sans arrêt", "checked":false},
@@ -36,6 +37,7 @@
     {"id": "rdv_pole_emploi", "label": "Rendez-vous Pôle Emploi", "checked": false}],
   "generatedBy":"javascript"}
 {"title":"Code 99 : Absence non autorisé non rémunrée", "generatedBy":"javascript"}
+
 
 
 
