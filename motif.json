@@ -13,29 +13,30 @@
 {"title":"Code 06 : Absence Légale",
   "options":[
     {"id":"naissance", "labal":"Naissance ou adoption (3jours)", "checked":false},
-    {"id": "mariage", "label": "Mariage (4jours)", "checked": false},
-    {"id": "mariage_enfant", "label": "Mariage d'un enfant (1jour)", "checked": false},
-    {"id": "deces", "label": "Décès du conjoint ou du partenaire lié par un pacte civil de solidarité, d'un parent ou beau-parent, d'un frére ou soeur (1jour)", "checked": false},
-    {"id": "visite_medicale", "label": "Visite médicale obligatoire de grossesse", "checked": false},
-    {"id": "mariage", "label": "Stagiaire élu membre du CA d'une caisse de sécurité sociale", "checked": false}],
+    {"id":"mariage", "label": "Mariage (4jours)", "checked": false},
+    {"id":"mariage_enfant", "label": "Mariage d'un enfant (1jour)", "checked": false},
+    {"id":"deces", "label": "Décès du conjoint ou du partenaire lié par un pacte civil de solidarité, d'un parent ou beau-parent, d'un frére ou soeur (1jour)", "checked": false},
+    {"id":"visite_medicale", "label": "Visite médicale obligatoire de grossesse", "checked": false},
+    {"id":"mariage", "label": "Stagiaire élu membre du CA d'une caisse de sécurité sociale", "checked": false}],
 "generatedBy":"javascript"}
 {"title":"Code 20 - 21 - 30 - 31 - 40 - 41 : Accident",
   "options":[
     {"id":"acc_s", "labal":"Accident travail sans arrêt", "checked":false},
-    {"id": "acc_a", "label": "Accident travail avec arrêt", "checked": false},
-    {"id": "acc_t_s", "label": "Accident trajet sans arrêt", "checked": false},
-    {"id": "acc_t_a", "label": "Accident trajet avec arrêt", "checked": false},
-    {"id": "acc_h_t_s", "label": "Accident travail hors Afpa sans arrêt", "checked": false},
-    {"id": "acc_h_t_a", "label": "Accident travail hors Afpa avec arrêt", "checked": false}],
+    {"id":"acc_a", "label": "Accident travail avec arrêt", "checked": false},
+    {"id":"acc_t_s", "label": "Accident trajet sans arrêt", "checked": false},
+    {"id":"acc_t_a", "label": "Accident trajet avec arrêt", "checked": false},
+    {"id":"acc_h_t_s", "label": "Accident travail hors Afpa sans arrêt", "checked": false},
+    {"id":"acc_h_t_a", "label": "Accident travail hors Afpa avec arrêt", "checked": false}],
   "generatedBy":"javascript"}
 {"title":"Code 98 : Absence autorisée non rémunérée",
   "options":[
     {"id":"recherche_pe", "labal":"Recherche PE", "checked":false},
-    {"id": "recherche_emploi", "label": "Recherche d’un emploi", "checked": false},
-    {"id": "visite_salon", "label": "Visite d’un salon", "checked": false},
-    {"id": "rdv_pole_emploi", "label": "Rendez-vous Pôle Emploi", "checked": false}],
+    {"id":"recherche_emploi", "label": "Recherche d’un emploi", "checked": false},
+    {"id":"visite_salon", "label": "Visite d’un salon", "checked": false},
+    {"id":"rdv_pole_emploi", "label": "Rendez-vous Pôle Emploi", "checked": false}],
   "generatedBy":"javascript"}
 {"title":"Code 99 : Absence non autorisé non rémunrée", "generatedBy":"javascript"}
+
 
 
 
