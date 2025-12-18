@@ -1,7 +1,7 @@
 {"title":"Code 01 : Retard absence non rémunéré",
   "options":[
     {"id":"retard", "labal":"Retard", "checked":false}],
-  "generatedBy":"javascript"}
+  "generatedBy":"javascript"},
 {"title":"Code 04 : Grève Afpa",
   "options":[
     {"id":"greve_afpa", "labal":"Grève Afpa", "checked":false}],
@@ -36,6 +36,7 @@
     {"id":"rdv_pole_emploi", "label": "Rendez-vous Pôle Emploi", "checked": false}],
   "generatedBy":"javascript"}
 {"title":"Code 99 : Absence non autorisé non rémunrée", "generatedBy":"javascript"}
+
 
 
 
